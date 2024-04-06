@@ -1,10 +1,9 @@
 <h2>Hi, I'm Philip <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
 
 <p>
-<em>
-🌱 I'm a .NET DEVELOPER vested in Financial Technology solutions with crafted software and websites, all powered by the robust Azure Cloud Services. My tailored solutions will offer a seamless blend of innovation and reliability. Let's elevate your financial operations to new heights – ask me how!</a>
-</em>
-    
+
+🌱 I'm a .NET DEVELOPER vested in crafting Financial Technology solutions using Software and Websites, all powered by Azure Cloud Services.</a>
+
 <br/>
     
 <em>🏢 Currently working at a FinTech Company, <a href="https://www.computeresources.co.ke">Computer Resources.</a> </em>
