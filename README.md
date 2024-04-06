@@ -2,11 +2,12 @@
 
 <p>
 <em>
- 🌱 A .NET DEVELOPER - Ask me about Custom-made Financial Technology (FinTech) in the form of Software, Websites and leverage on Azure Cloud Services.</a>
+🌱 A .NET DEVELOPER - Ask me about Custom-made Financial Technology (FinTech) in the form of Software, Websites and leverage on Azure Cloud Services.</a>
 </em>
- <br/>
-<em>🏢 Currently at a FinTech Company, <a href="https://www.computeresources.co.ke">Computer Resources.</a> 
-</em>
+    
+<br/>
+    
+<em>🏢 Currently working at a FinTech Company, <a href="https://www.computeresources.co.ke">Computer Resources.</a> </em>
 </p>
 
 <br/>
@@ -16,22 +17,17 @@
 </p>
 
 </br>
+<hr/>
 
-![Twitter Follow link=https://twitter.com/philip_nj](https://img.shields.io/twitter/follow/philip_nj?style=social) [![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-njurunjoroge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/services/page/0002803185301ba038)](https://www.linkedin.com/services/page/0002803185301ba038) [![GitHub Njoro007](https://img.shields.io/github/followers/Njoro007?label=follow&style=social)](https://github.com/Njoro007)
-
-
-📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
+![Twitter Follow link=https://twitter.com/philip_nj](https://img.shields.io/twitter/follow/philip_nj?style=social) [![Linkedin: Njuru Njoroge](https://img.shields.io/badge/-njurunjoroge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/services/page/0002803185301ba038)](https://www.linkedin.com/services/page/0002803185301ba038) [![GitHub Njuru007](https://img.shields.io/github/followers/Njuru007?label=follow&style=social)](https://github.com/Njuru007) 📫 Reach me via Email: [![Gmail Badge](https://img.shields.io/badge/-njurunjoroge@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njurunjoroge@gmail.com)](mailto:njurunjoroge@gmail.com)
 
 ##
 
 ## :computer: Technologies I work with
-✨  💬 Ask me about Software, Websites and Cloud<br/>
 ✨  C# and VB.NET Languages  <br/>
 ✨  🔭 Currently Working Using --> Blazor, Windows Forms, ASP Net Core and API projects <br/>
 ✨  for CRUD operations I use ADO.NET and Entity Framework too!<br/>
 ✨  Visual Studio IDE is my Play Ground<br/>
-
-
 
 ## Platforms and Programming Languages
 
@@ -39,22 +35,13 @@
  
 <hr/>
 
-
-
 ## Did you like my work? <a href="https://bmc.link/Njoro007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <hr/>
 
-
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Njuru007&theme=earth&border_radius=5)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Njuru007&show_icons=true&theme=dark"/>
 
-<p float="left">
-  
-
-  
-</p>
+<hr/>
 
 
 <!--START_SECTION:waka-->
@@ -64,21 +51,3 @@
 
 <figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/f48b8b1e-c8b1-4932-9b1b-9d2deb7e8e36.svg"></embed></figure>
 
-
-
-
-<!--
-**Njoro007/Njoro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋 ...
--->
