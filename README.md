@@ -47,11 +47,6 @@
 
 <hr/>
 
+<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/f1efbc82-58c0-4d6d-ac5d-d713400ca9a5.svg"></embed></figure>
 
-<!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/19a46b26-e019-493f-8619-b77ce3c808b1.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/9ceec231-36df-49e3-841d-4e714828f672.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/f48b8b1e-c8b1-4932-9b1b-9d2deb7e8e36.svg"></embed></figure>
 
