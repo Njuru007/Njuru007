@@ -41,33 +41,18 @@
 
 
 
-## Did you like my work?
-
-<a href="https://bmc.link/Njoro007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+## Did you like my work? <a href="https://bmc.link/Njoro007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <hr/>
 
 
-<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/16d00653-7a7c-4ed7-9eed-f45a60b3ed54.svg"></embed></figure>
 
 
-<figure><embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/34f51bf2-366c-42bc-b672-a9814ee3d823.svg"></embed></figure>
-
-<figure>
-<embed src="https://wakatime.com/share/@96d68408-7022-4215-9fad-49e443748d7d/751464b1-7951-4615-91ac-a9fab880ca5a.svg"></embed>
-</figure>
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Njuru007&theme=earth&border_radius=5)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Njuru007&theme=earth&border_radius=5)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Njuru007&show_icons=true&theme=dark"/>
 
 <p float="left">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njuru007"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Njuru007&show_icons=true&theme=dark"/>
+
   
 </p>
 
