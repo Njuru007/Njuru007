@@ -1,7 +1,10 @@
 <h2>Hi, I'm Philip <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
 
 <p>
-<em>🌱 A .NET DEVELOPER - Ask me about Custom-made Financial Technology (FinTech) in the form of Software, Websites and leverage on Azure Cloud Services.</a>
+<em>
+ 🌱 A .NET DEVELOPER - Ask me about Custom-made Financial Technology (FinTech) in the form of Software, Websites and leverage on Azure Cloud Services.</a>
+</em>
+ <br/>
 <em>🏢 Currently at a FinTech Company, <a href="https://www.computeresources.co.ke">Computer Resources.</a> 
 </em>
 </p>
@@ -54,13 +57,13 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Njoro007&theme=earth&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Njuru007&theme=earth&border_radius=5)](https://git.io/streak-stats)
 
 
 <p float="left">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njoro007"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Njoro007&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Njuru007"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Njuru007&show_icons=true&theme=dark"/>
   
 </p>
 
