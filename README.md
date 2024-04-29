@@ -5,7 +5,7 @@
 </p>
 
 <p>
-🌱 I am a software and website developer. My expertise lies in financial technology (FinTech), where I design solutions that streamline processes, enhance security, and drive efficiency. I have a knack for building software and websites, ensuring seamless user experiences. My secret weapon? is the technical skills to have applications run on a private or organized cloud service.
+🌱 I am a software and website developer. My expertise lies in financial technology (FinTech), where I design solutions that streamline processes, enhance security, and drive efficiency. I have a knack for building software and websites, ensuring seamless user experiences. My secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
 </p>
 
 ## Here are a few examples from my portfolio
