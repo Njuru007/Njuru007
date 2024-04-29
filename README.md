@@ -11,7 +11,7 @@
 ## Here are a few examples from my portfolio
 🌐<em> <a href="https://www.computeresources.co.ke">Rotary Club of Kirinyaga </a> </em> <br/>
 🌐<em> <a href="https://www.computeresources.co.ke">Seven Wonders Safaris </a> </em> <br/>
-🏢<em> <a href="https://www.computeresources.co.ke">Property Management System </a> </em> <br/>
+🏢<em> <a href="[https://www.computeresources.co.ke"](https://www.computeresources.co.ke/Services/Property)>Property Management System </a> </em> <br/>
 🌐<em> <a href="https://www.computeresources.co.ke">Professional Edge </a> </em> 
 
 <hr/>
