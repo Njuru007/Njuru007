@@ -9,10 +9,10 @@
 </p>
 
 ## Here are a few examples from my portfolio
-🌐<em> <a href="https://www.computeresources.co.ke">Rotary Club of Kirinyaga </a> </em> <br/>
-🌐<em> <a href="https://www.computeresources.co.ke">Seven Wonders Safaris </a> </em> <br/>
-🏢<em> <a href="[https://www.computeresources.co.ke"](https://www.computeresources.co.ke/Services/Property)>Property Management System </a> </em> <br/>
-🌐<em> <a href="https://www.computeresources.co.ke">Professional Edge </a> </em> 
+🌐<em> <a target="_blank" href="https://rotarykirinyaga.org">Rotary Club of Kirinyaga </a> </em> <br/>
+🌐<em> <a target="_blank" href="https://www.sevenwonderssafaris.co.ke">Seven Wonders Safaris </a> </em> <br/>
+🏢<em> <a target="_blank" href="https://www.computeresources.co.ke/Services/Property">Property Management System </a> </em> <br/>
+🌐<em> <a target="_blank" href="https://professionaledge.co.ke/">Professional Edge </a> </em> 
 
 <hr/>
 
