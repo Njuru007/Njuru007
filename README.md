@@ -1,11 +1,11 @@
 <h2>Hi, I'm Philip :kenya: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
 
 <p>
-<em>🏢 I currently work at a financial technology (FinTech) company, <a href="https://www.computeresources.co.ke">Computer Resources Ltd.</a> </em>
+<em>🏢 Currently working at a financial technology (FinTech) company, <a href="https://www.computeresources.co.ke">Computer Resources Ltd.</a> </em>
 </p>
 
 <p>
-🌱 I am a software and website developer. My expertise lies in financial technology (FinTech), where I design solutions that streamline processes, enhance security, and drive efficiency. I have a knack for building software and websites, ensuring seamless user experiences. My secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
+🌱 I'm a software and website developer. My expertise lies in financial technology (FinTech), where I design solutions that streamline processes, enhance security, and drive efficiency. I have a knack for building software and websites, ensuring seamless user experiences. My secret weapon? It’s the technical skills that complement each other, all while ensuring exceptional customer success.
 </p>
 
 ## Here are a few examples from my portfolio
